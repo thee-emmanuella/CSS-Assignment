@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-size: 25px;
+    background-color: purple;
+    color: white;
+}
+
+.likes {
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.likes {
+    color: purple;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+}
+
+#likes {
+    list-style-type: upper-roman;
+}
+
+.dislikes {
+    color: red;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.dislikes {
+    color: purple;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#dislikes {
+    list-style-type: lower-greek;
+}
